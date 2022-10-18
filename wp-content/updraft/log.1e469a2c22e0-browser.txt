@@ -1,0 +1,51 @@
+0000.015 (R) [notice] Looking for plugins archive: file name: backup_2022-10-17-1951_pacific54_9fc2aa615606-plugins.zip
+0000.016 (R) [notice] Archive is expected to be size: 86230.9 KB: OK
+0000.016 (R) [notice] Looking for themes archive: file name: backup_2022-10-17-1951_pacific54_9fc2aa615606-themes.zip
+0000.016 (R) [notice] Archive is expected to be size: 21493.7 KB: OK
+0000.016 (R) [notice] Looking for uploads archive: file name: backup_2022-10-17-1951_pacific54_9fc2aa615606-uploads.zip
+0000.016 (R) [notice] Archive is expected to be size: 1.2 KB: OK
+0000.016 (R) [notice] Looking for others archive: file name: backup_2022-10-17-1951_pacific54_9fc2aa615606-others.zip
+0000.016 (R) [notice] Archive is expected to be size: 757.8 KB: OK
+0000.019 (R) [notice] Unpacking backup... (backup_2022-10-17-1951_pacific54_9fc2aa615606-plugins.zip, 84.2 MB)
+0000.481 (R) [notice] Unzip progress: 4125 out of 26328 files (21.4 KB, plugins/google-listings-and-ads/vendor/phpseclib/phpseclib/phpseclib/Crypt/RC2.php)
+0000.613 (R) [notice] Unzip progress: 5126 out of 26328 files (12.7 MB, plugins/google-listings-and-ads/vendor/google/common-protos/metadata/Type/Dayofweek.php)
+0000.703 (R) [notice] Unzip progress: 6127 out of 26328 files (16.6 MB, plugins/google-listings-and-ads/vendor/googleads/google-ads-php/src/Google/Ads/GoogleAds/V11/Services/ApplyRecommendationOperation_SitelinkExtensionParameters.php)
+0000.797 (R) [notice] Unzip progress: 7128 out of 26328 files (21.9 MB, plugins/google-listings-and-ads/vendor/googleads/google-ads-php/src/Google/Ads/GoogleAds/Lib/V11/GoogleAdsClient.php)
+0000.888 (R) [notice] Unzip progress: 8129 out of 26328 files (26.2 MB, plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Iterator/FilterIterator.php)
+0000.985 (R) [notice] Unzip progress: 9130 out of 26328 files (31.3 MB, plugins/updraftplus/vendor/symfony/event-dispatcher/EventDispatcherInterface.php)
+0001.083 (R) [notice] Unzip progress: 10131 out of 26328 files (37.3 MB, plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-dedicated-sender.php)
+0001.290 (R) [notice] Unzip progress: 11132 out of 26328 files (62.2 MB, plugins/ooohboi-steroids-for-elementor/inc/exopite-simple-options/assets/editors/ace/mode-vala.js)
+0001.448 (R) [notice] Unzip progress: 12133 out of 26328 files (78 MB, plugins/jetpack/images/rss/purple-large.png)
+0001.619 (R) [notice] Unzip progress: 13134 out of 26328 files (95 MB, plugins/jetpack/_inc/build/jetpack-modules.min.js)
+0001.752 (R) [notice] Unzip progress: 14135 out of 26328 files (107.7 MB, plugins/jetpack/jetpack_vendor/automattic/jetpack-videopress/src/client/block-editor/blocks/video/components/videopress-uploader/uploader-error.js)
+0001.928 (R) [notice] Unzip progress: 15136 out of 26328 files (123.9 MB, plugins/ml-slider/metagallery/app/API/GalleryUpdate.php)
+0002.065 (R) [notice] Unzip progress: 16137 out of 26328 files (138.6 MB, plugins/pro-elements/modules/woocommerce/documents/product-archive.php)
+0002.238 (R) [notice] Unzip progress: 17138 out of 26328 files (159.7 MB, plugins/mailpoet/generated/twig/22/221f4a4757dfc9cc8be423a25d17f78485c07857763ec41822e2136a35c3f470.php)
+0002.383 (R) [notice] Unzip progress: 18139 out of 26328 files (176.6 MB, plugins/mailpoet/vendor-prefixed/doctrine/dbal/lib/Doctrine/DBAL/Types/JsonType.php)
+0002.458 (R) [notice] Unzip progress: 19140 out of 26328 files (179.6 MB, plugins/mailpoet/assets/img/newsletter_editor/social-icons/03-circles/LinkedIn.png)
+0002.540 (R) [notice] Unzip progress: 20141 out of 26328 files (183.5 MB, plugins/mailpoet/lib/Config/PopulatorData/Templates/ComputerRepair.php)
+0002.675 (R) [notice] Unzip progress: 21142 out of 26328 files (196.8 MB, plugins/elementor/includes/widgets/heading.php)
+0002.880 (R) [notice] Unzip progress: 22143 out of 26328 files (222.9 MB, plugins/woocommerce/assets/css/admin.css)
+0002.986 (R) [notice] Unzip progress: 23144 out of 26328 files (230.6 MB, plugins/woocommerce/includes/tracks/class-wc-tracks-footer-pixel.php)
+0003.121 (R) [notice] Unzip progress: 24145 out of 26328 files (242.8 MB, plugins/woocommerce/packages/woocommerce-blocks/assets/js/previews/grid-block.js)
+0003.227 (R) [notice] Unzip progress: 25146 out of 26328 files (249.2 MB, plugins/woocommerce/packages/woocommerce-blocks/assets/js/payment-method-extensions/payment-methods/cod/index.js)
+0003.306 (R) [notice] Unzip progress: 26147 out of 26328 files (251.5 MB, plugins/woocommerce/packages/woocommerce-blocks/packages/checkout/filter-registry/test/index.js)
+0003.324 (R) [notice] Unzip progress: 26328 out of 26328 files (251.8 MB, plugins/woocommerce/packages/woocommerce-blocks/assets/js/types/type-defs/cart-response.ts)
+0003.342 (R) [notice] Moving old data out of the way...
+0003.421 (R) [notice] Moving unpacked backup into place...
+0004.612 (R) [notice] Cleaning up rubbish...
+0004.659 (R) [notice] Unpacking backup... (backup_2022-10-17-1951_pacific54_9fc2aa615606-themes.zip, 21 MB)
+0004.881 (R) [notice] Unzip progress: 1002 out of 2067 files (23 MB, themes/astra/inc/assets/fonts/ast-logo.ttf)
+0005.048 (R) [notice] Unzip progress: 2003 out of 2067 files (43.5 MB, themes/twentyseventeen/assets/images/espresso.jpg)
+0005.065 (R) [notice] Unzip progress: 2067 out of 2067 files (44.1 MB, themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php)
+0005.067 (R) [notice] Moving old data out of the way...
+0005.092 (R) [notice] Moving unpacked backup into place...
+0005.185 (R) [notice] Cleaning up rubbish...
+0005.201 (R) [notice] Unpacking backup... (backup_2022-10-17-1951_pacific54_9fc2aa615606-uploads.zip, 0 MB)
+0005.202 (R) [notice] Moving old data out of the way...
+0005.203 (R) [notice] Moving unpacked backup into place...
+0005.204 (R) [notice] Cleaning up rubbish...
+0005.217 (R) [notice] Unpacking backup... (backup_2022-10-17-1951_pacific54_9fc2aa615606-others.zip, 0.7 MB)
+0005.282 (R) [notice] Unzip progress: 82 out of 82 files (2.7 MB, mu-plugins/pantheon.php)
+0005.283 (R) [notice] Cleaning up rubbish...
+0005.317 (R) [notice] Restore successful!

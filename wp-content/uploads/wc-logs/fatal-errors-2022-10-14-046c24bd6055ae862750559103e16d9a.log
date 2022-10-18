@@ -1,0 +1,11 @@
+2022-10-14T16:13:46+00:00 CRITICAL Uncaught Error: Call to a member function is_editable_by_current_user() on bool in /code/wp-content/plugins/elementor/includes/managers/widgets.php:408
+Stack trace:
+#0 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#1 /code/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /code/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#3 /code/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 /code/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#5 /code/wp-admin/admin-ajax.php(187): do_action('wp_ajax_element...')
+#6 {main}
+  thrown in /code/wp-content/plugins/elementor/includes/managers/widgets.php on line 408
+

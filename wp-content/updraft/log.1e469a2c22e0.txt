@@ -1,0 +1,78 @@
+0000.003 () Opened log file at time: Mon, 17 Oct 2022 22:30:36 +0000 on http://localhost/wordpress
+0000.003 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.23 WP: 6.0.2 PHP: 8.1.2 (apache2handler, Linux develop 5.15.0-50-generic #56-Ubuntu SMP Tue Sep 20 13:23:26 UTC 2022 x86_64) MySQL: 10.6.7-MariaDB-2ubuntu1.1 (max packet size=33554432) WPLANG: es_ES Server: Apache/2.4.52 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 1024M (used: 14M | 16M) multisite: N openssl: OpenSSL 3.0.2 15 Mar 2022 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.003 () Free space on disk containing Updraft's temporary directory: 29260.3 MB
+0000.013 () Restore setup, now closing connection and starting restore over AJAX.
+0000.002 () Opened log file at time: Mon, 17 Oct 2022 22:30:37 +0000 on http://localhost/wordpress
+0000.003 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.23 WP: 6.0.2 PHP: 8.1.2 (apache2handler, Linux develop 5.15.0-50-generic #56-Ubuntu SMP Tue Sep 20 13:23:26 UTC 2022 x86_64) MySQL: 10.6.7-MariaDB-2ubuntu1.1 (max packet size=33554432) WPLANG: es_ES Server: Apache/2.4.52 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 1024M (used: 11.6M | 14M) multisite: N openssl: OpenSSL 3.0.2 15 Mar 2022 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.003 () Free space on disk containing Updraft's temporary directory: 29260 MB
+0000.012 () Ensuring WP_Filesystem is setup for a restore
+0000.012 () WP_Filesystem is setup and ready for a restore
+0000.015 () Restore job started. Entities to restore: plugins, themes, uploads, others. Restore options: {"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.016 () PHP event: code E_WARNING: mkdir(): File exists (line 545, wp-admin/includes/class-wp-filesystem-direct.php)
+0000.019 () Entity: plugins
+0000.019 () restore_backup(backup_file=backup_2022-10-17-1951_pacific54_9fc2aa615606-plugins.zip, type=plugins, info=a:3:{s:4:"path";s:42:"/var/www/html/wordpress/wp-content/plugins";s:11:"description";s:7:"Plugins";s:20:"singular_description";s:6:"Plugin";}, last_one=)
+0000.019 () Unpacking backup... (backup_2022-10-17-1951_pacific54_9fc2aa615606-plugins.zip, 84.2 MB)
+0000.020 () Unzipping backup_2022-10-17-1951_pacific54_9fc2aa615606-plugins.zip to /var/www/html/wordpress/wp-content/upgrade/4882abf5/ using UpdraftPlus_ZipArchive, starting index 0
+0000.481 () Unzip progress: 4125 out of 26328 files (21.4 KB, plugins/google-listings-and-ads/vendor/phpseclib/phpseclib/phpseclib/Crypt/RC2.php)
+0000.613 () Unzip progress: 5126 out of 26328 files (12.7 MB, plugins/google-listings-and-ads/vendor/google/common-protos/metadata/Type/Dayofweek.php)
+0000.703 () Unzip progress: 6127 out of 26328 files (16.6 MB, plugins/google-listings-and-ads/vendor/googleads/google-ads-php/src/Google/Ads/GoogleAds/V11/Services/ApplyRecommendationOperation_SitelinkExtensionParameters.php)
+0000.797 () Unzip progress: 7128 out of 26328 files (21.9 MB, plugins/google-listings-and-ads/vendor/googleads/google-ads-php/src/Google/Ads/GoogleAds/Lib/V11/GoogleAdsClient.php)
+0000.888 () Unzip progress: 8129 out of 26328 files (26.2 MB, plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Iterator/FilterIterator.php)
+0000.985 () Unzip progress: 9130 out of 26328 files (31.3 MB, plugins/updraftplus/vendor/symfony/event-dispatcher/EventDispatcherInterface.php)
+0001.083 () Unzip progress: 10131 out of 26328 files (37.3 MB, plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-dedicated-sender.php)
+0001.290 () Unzip progress: 11132 out of 26328 files (62.2 MB, plugins/ooohboi-steroids-for-elementor/inc/exopite-simple-options/assets/editors/ace/mode-vala.js)
+0001.448 () Unzip progress: 12133 out of 26328 files (78 MB, plugins/jetpack/images/rss/purple-large.png)
+0001.619 () Unzip progress: 13134 out of 26328 files (95 MB, plugins/jetpack/_inc/build/jetpack-modules.min.js)
+0001.752 () Unzip progress: 14135 out of 26328 files (107.7 MB, plugins/jetpack/jetpack_vendor/automattic/jetpack-videopress/src/client/block-editor/blocks/video/components/videopress-uploader/uploader-error.js)
+0001.928 () Unzip progress: 15136 out of 26328 files (123.9 MB, plugins/ml-slider/metagallery/app/API/GalleryUpdate.php)
+0002.065 () Unzip progress: 16137 out of 26328 files (138.6 MB, plugins/pro-elements/modules/woocommerce/documents/product-archive.php)
+0002.238 () Unzip progress: 17138 out of 26328 files (159.7 MB, plugins/mailpoet/generated/twig/22/221f4a4757dfc9cc8be423a25d17f78485c07857763ec41822e2136a35c3f470.php)
+0002.383 () Unzip progress: 18139 out of 26328 files (176.6 MB, plugins/mailpoet/vendor-prefixed/doctrine/dbal/lib/Doctrine/DBAL/Types/JsonType.php)
+0002.458 () Unzip progress: 19140 out of 26328 files (179.6 MB, plugins/mailpoet/assets/img/newsletter_editor/social-icons/03-circles/LinkedIn.png)
+0002.540 () Unzip progress: 20141 out of 26328 files (183.5 MB, plugins/mailpoet/lib/Config/PopulatorData/Templates/ComputerRepair.php)
+0002.675 () Unzip progress: 21142 out of 26328 files (196.8 MB, plugins/elementor/includes/widgets/heading.php)
+0002.881 () Unzip progress: 22143 out of 26328 files (222.9 MB, plugins/woocommerce/assets/css/admin.css)
+0002.986 () Unzip progress: 23144 out of 26328 files (230.6 MB, plugins/woocommerce/includes/tracks/class-wc-tracks-footer-pixel.php)
+0003.121 () Unzip progress: 24145 out of 26328 files (242.8 MB, plugins/woocommerce/packages/woocommerce-blocks/assets/js/previews/grid-block.js)
+0003.227 () Unzip progress: 25146 out of 26328 files (249.2 MB, plugins/woocommerce/packages/woocommerce-blocks/assets/js/payment-method-extensions/payment-methods/cod/index.js)
+0003.306 () Unzip progress: 26147 out of 26328 files (251.5 MB, plugins/woocommerce/packages/woocommerce-blocks/packages/checkout/filter-registry/test/index.js)
+0003.324 () Unzip progress: 26328 out of 26328 files (251.8 MB, plugins/woocommerce/packages/woocommerce-blocks/assets/js/types/type-defs/cart-response.ts)
+0003.342 () Moving old data: filesystem method / updraft_dir is potentially possible
+0003.342 () Moving old data: can potentially use wp_filesystem method / -old
+0003.342 () Moving old data out of the way...
+0003.420 () Top-level entities being moved: akismet, index.php, hello.php, updraftplus
+0003.421 () Moving unpacked backup into place...
+0004.605 () Top-level entities being moved: woocommerce-payments, dynamic-visibility-for-elementor, bdthemes-prime-slider-lite, woocommerce-services, jetpack, ml-slider, mailpoet, elementor, woocommerce, ooohboi-steroids-for-elementor, slider-factory, google-listings-and-ads, index.php, pro-elements, litespeed-cache, updraftplus, facebook-for-woocommerce
+0004.612 () Cleaning up rubbish...
+0004.659 () Entity: themes
+0004.659 () restore_backup(backup_file=backup_2022-10-17-1951_pacific54_9fc2aa615606-themes.zip, type=themes, info=a:3:{s:4:"path";s:41:"/var/www/html/wordpress/wp-content/themes";s:11:"description";s:6:"Themes";s:20:"singular_description";s:5:"Theme";}, last_one=)
+0004.659 () Unpacking backup... (backup_2022-10-17-1951_pacific54_9fc2aa615606-themes.zip, 21 MB)
+0004.660 () Unzipping backup_2022-10-17-1951_pacific54_9fc2aa615606-themes.zip to /var/www/html/wordpress/wp-content/upgrade/8e108c01/ using UpdraftPlus_ZipArchive, starting index 0
+0004.881 () Unzip progress: 1002 out of 2067 files (23 MB, themes/astra/inc/assets/fonts/ast-logo.ttf)
+0005.049 () Unzip progress: 2003 out of 2067 files (43.5 MB, themes/twentyseventeen/assets/images/espresso.jpg)
+0005.065 () Unzip progress: 2067 out of 2067 files (44.1 MB, themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php)
+0005.067 () Moving old data: filesystem method / updraft_dir is potentially possible
+0005.067 () Moving old data: can potentially use wp_filesystem method / -old
+0005.067 () Moving old data out of the way...
+0005.091 () Top-level entities being moved: twentytwenty, twentytwentytwo, index.php, twentytwentyone
+0005.092 () Moving unpacked backup into place...
+0005.183 () Top-level entities being moved: twentytwelve, twentyfifteen, twentytwenty, twentyseventeen, twentytwentytwo, twentyfourteen, astra, index.php, twentynineteen, twentysixteen, hello-elementor, twentythirteen, twentytwentyone, twentyeleven, twentyten
+0005.185 () Cleaning up rubbish...
+0005.201 () Entity: uploads
+0005.201 () restore_backup(backup_file=backup_2022-10-17-1951_pacific54_9fc2aa615606-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:42:"/var/www/html/wordpress/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0005.201 () Unpacking backup... (backup_2022-10-17-1951_pacific54_9fc2aa615606-uploads.zip, 0 MB)
+0005.202 () Unzipping backup_2022-10-17-1951_pacific54_9fc2aa615606-uploads.zip to /var/www/html/wordpress/wp-content/upgrade/f4a0dac8/ using UpdraftPlus_ZipArchive, starting index 0
+0005.202 () Moving old data: filesystem method / updraft_dir is potentially possible
+0005.202 () Moving old data: can potentially use wp_filesystem method / -old
+0005.202 () Moving old data out of the way...
+0005.203 () Moving unpacked backup into place...
+0005.204 () Cleaning up rubbish...
+0005.217 () Entity: others
+0005.217 () restore_backup(backup_file=backup_2022-10-17-1951_pacific54_9fc2aa615606-others.zip, type=others, info=a:2:{s:4:"path";s:34:"/var/www/html/wordpress/wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0005.217 () Unpacking backup... (backup_2022-10-17-1951_pacific54_9fc2aa615606-others.zip, 0.7 MB)
+0005.217 () Unzipping backup_2022-10-17-1951_pacific54_9fc2aa615606-others.zip to /var/www/html/wordpress/wp-content/upgrade/a1e6c54e/ using UpdraftPlus_ZipArchive, starting index 0
+0005.282 () Unzip progress: 82 out of 82 files (2.7 MB, mu-plugins/pantheon.php)
+0005.283 () Cleaning up rubbish...
+0005.305 () Elementor's CSS directory exists, and will be emptied (so that it will be automatically regenerated)
+0005.317 () Restore successful!
+0005.317 () Restore successful
