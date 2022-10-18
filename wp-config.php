@@ -1,6 +1,8 @@
 <?php
 define( 'WP_CACHE', true );
 
+
+
 /**
  * The base configuration for WordPress
  *
@@ -28,7 +30,7 @@ define( 'DB_NAME', 'pacific' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', '123456' );
+define( 'DB_PASSWORD', '' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );

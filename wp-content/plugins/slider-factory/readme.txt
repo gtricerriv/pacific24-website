@@ -4,7 +4,7 @@ Donate link: https://wpfrank.com/
 Tags: slider, responsive slider, slide show, image slider, slider gallery
 Requires at least: 4.0
 Tested up to: 6.0.2
-Stable tag: 1.3.8
+Stable tag: 1.3.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -149,6 +149,9 @@ https://www.youtube.com/watch?v=H0_FnzsrEGc
 12. Layout 12
 
 == Changelog ==
+
+= 1.3.8 =
+* PHP v7.4.x tested
 
 = 1.3.8 =
 * Tested on Latest WordPress version.

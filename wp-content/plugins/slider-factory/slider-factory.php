@@ -4,10 +4,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /**
- * Plugin Name:       Slider Factory - 1.3.8
+ * Plugin Name:       Slider Factory - 1.3.9
  * Plugin URI:        https://wpfrank.com/
  * Description:       Slider factory provides multiple slider layouts in single dashboard.
- * Version:           1.3.8
+ * Version:           1.3.9
  * Requires at least: 4.0
  * Requires PHP:      4.0
  * Author:            FARAZFRANK
